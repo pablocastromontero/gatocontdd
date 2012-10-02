@@ -1,12 +1,12 @@
 # tddProject
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
+Proyecto en Clojure que contiene las reglas básicas para llevar a cabo el juego de "gato".
 
-The choice is up to you!
+De momento la lógica de la computadora no es más que una selección aleatoria.
 
 ## Usage
 
-FIXME
+Pendiente
 
 ## License
 
